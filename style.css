@@ -1,0 +1,57 @@
+.titulo{
+    background-color: #93b3f0;
+    text-align: center;
+    font-style: bold;
+}
+
+.imagenes1{
+    margin-top: 1px;
+    border-top: 1px solid gray;
+    border-bottom: 1px solid gray;
+    margin-right: 25%;
+    margin-left: 25%;
+    text-align: center;
+    
+}
+
+.Valencia{
+    width: 150px;
+    height: 100px;
+}
+
+.Valencia{
+    opacity: 1;
+}
+
+.Valencia:hover{
+    opacity: 0.3;
+}
+
+.azulito:hover{
+    background-color: #93b3f0;
+    opacity: 0.3;
+}
+.parrafo2{
+    border-top: 10px solid blue;
+    border-bottom: 10px solid blue;
+    margin-top: 2px;
+}
+
+.texto2{
+    margin-left: 25%;
+    margin-right: 50%;
+}
+
+.fondoV{
+    
+    background-image: url(img/valencia_antigua.jpg);
+    color: blue;
+    margin-right: 35%;
+    
+}
+
+.V2{
+    background-color: #93b3f0;
+    text-align: center;
+}
+
